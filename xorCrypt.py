@@ -2,6 +2,8 @@
 """
 Created on 8.12.2020
 
+Python 3.7
+
 @author: Voxel
 """
 
