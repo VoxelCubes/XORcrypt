@@ -8,7 +8,7 @@ The script edits files in place, make backups before running.
 
 pathlib2
 
-## USAGE
+## Usage
 
 *-file* By default the current working directory is used. If this argument is set, only the given file will be modified.
 
